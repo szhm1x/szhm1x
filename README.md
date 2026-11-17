@@ -13,7 +13,7 @@
 
 - 🎓 Estudiante de **Ingeniería de Software** en la **Universidad APEC (UNAPEC)**, Santo Domingo, República Dominicana (2026 - 2029).
 - 🎯 Enfocado en **desarrollo backend** con Python y C++.
-- 🧱 He construido proyectos como **MiniStore** (tienda modular con persistencia en JSON) y un sitio de e-commerce en equipo, donde estuve a cargo del backend.
+- 🧱 He construido proyectos como **MiniStore** y un sitio de e-commerce en equipo, donde estuve a cargo del backend.
 - 🌐 Inglés básico-intermedio, con terminología técnica de programación.
 - 💼 Disponible para oportunidades **junior**.
 
@@ -59,8 +59,6 @@ Disposición para aprender y adaptarse · Responsabilidad y organización · Tra
 | **MiniStore** | Tienda con arquitectura modular y almacenamiento de datos en archivos JSON. | Python · JSON |
 | **Rovelle** | Tienda de ropa en línea, proyecto en equipo para la materia Diseño Web en UNAPEC: página de inicio, inicio de sesión y carrito de compras. Estuve a cargo del backend. | HTML · CSS · JavaScript |
 | **Portafolio Personal** | Sitio web que presenta mi perfil profesional, habilidades técnicas y proyectos. [Ver sitio](https://szhm1x.github.io/) | HTML · CSS · JavaScript |
-
-> 📌 Enlaza cada proyecto a su repositorio: `[MiniStore](https://github.com/szhm1x/NOMBRE-DEL-REPO)`
 
 ---
 
