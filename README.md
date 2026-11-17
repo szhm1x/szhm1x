@@ -80,8 +80,8 @@ Disposición para aprender y adaptarse · Responsabilidad y organización · Tra
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=szhm1x&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=szhm1x&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=szhm1x&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Estadísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szhm1x&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
 
 </div>
 
