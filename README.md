@@ -1,49 +1,104 @@
 <div align="center">
 
-<a href="https://szhm1x.github.io/">
-  <img src="assets/banner.svg" width="960" alt="Henderson Sánchez, Backend Developer, Python">
-</a>
+# Hola, soy Henderson 👋
 
-<br><br>
+### Estudiante de Ingeniería de Software · Aspirante a Backend Developer
 
-<a href="https://szhm1x.github.io/"><img src="https://img.shields.io/badge/VER_PROYECTOS_→-C9A84C?style=for-the-badge&labelColor=C9A84C&color=C9A84C" alt="Ver proyectos"></a>&nbsp;<a href="mailto:Hendersonsanchez588@gmail.com"><img src="https://img.shields.io/badge/HABLEMOS-14110B?style=for-the-badge&labelColor=14110B&color=14110B" alt="Hablemos"></a>&nbsp;<a href="https://www.linkedin.com/in/hendersonsanchez/"><img src="https://img.shields.io/badge/LINKEDIN-14110B?style=for-the-badge&labelColor=14110B&color=14110B" alt="LinkedIn"></a>
+Construyo software con **Python** y **C++**, aprendiendo con proyectos reales y buscando mi primera oportunidad profesional como desarrollador junior.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henderson_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henderson-sánchez-7a15342b9)
+[![GitHub](https://img.shields.io/badge/GitHub-szhm1x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szhm1x)
 
 </div>
 
-<br>
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudio **Ingeniería de Software** en la **Universidad APEC (UNAPEC)**, Santo Domingo, República Dominicana.
+- 🎯 Mi meta: convertirme en **desarrollador backend profesional**.
+- 🐍 Profundizando en **Python** (FastAPI, automatización, estructuras de datos) y ⚙️ **C++** (punteros, STL, POO).
+- 🧪 Aprendo construyendo: cada concepto lo llevo a un proyecto.
+- 🌐 Inglés básico-intermedio, en mejora constante.
+- 💼 Disponible para oportunidades **junior** y prácticas.
+
+---
+
+## 🛠️ Tecnologías
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend y datos**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **MiniStore** | Tienda en consola con arquitectura modular y persistencia en JSON. | Python |
+| **Notes API** | API REST para gestionar notas, desarrollada de forma independiente. | Python · FastAPI · SQLModel · SQLite |
+| **Task API** | API para administración de tareas con operaciones CRUD. | Python · FastAPI |
+| **File Organizer** | Script que organiza archivos automáticamente por tipo. | Python |
+| **Mass Renamer** | Herramienta para renombrar archivos en lote. | Python |
+| **Weather Bot** | Bot que consulta y muestra el clima mediante una API externa. | Python |
+| **Rovelle** | Tienda de ropa online (proyecto grupal universitario): landing, login y carrito. | HTML · CSS · JavaScript |
+
+> 📌 Enlaza cada proyecto a su repositorio: `[MiniStore](https://github.com/szhm1x/NOMBRE-DEL-REPO)`
+
+---
+
+## 🗺️ Lo que estoy aprendiendo ahora
+
+- 🐍 **Python avanzado:** generadores, decoradores, context managers, Big O y estructuras de datos.
+- ⚙️ **C++:** ruta de 8 meses enfocada en backend (punteros, STL, POO, herramientas de build).
+- 🗄️ **Persistencia:** SQLModel + SQLite en mis APIs con FastAPI.
+- 🐳 **Docker** y entornos de desarrollo con WSL2.
+
+---
+
+## 🎓 Formación y certificaciones
+
+- **Ingeniería de Software**, Universidad APEC (UNAPEC), en curso.
+- **Full Stack Web Development**, INDOTEL.
+- **Bachillerato Técnico en Electricidad**, Politécnico Madre Rafaela Ybarra.
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="assets/h-about.svg" width="960" alt="Sobre mí">
-<img src="assets/about.svg" width="960" alt="Henderson M. Sánchez Herrera, Backend Developer Junior, UNAPEC, Santo Domingo">
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=szhm1x&show_icons=true&theme=tokyonight&hide_border=true)
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=szhm1x&layout=compact&theme=tokyonight&hide_border=true)
 
-<br><br>
+</div>
 
-<img src="assets/h-stack.svg" width="960" alt="Stack">
-<img src="assets/stack.svg" width="960" alt="Stack: Python, C++, JavaScript, HTML, CSS, Git, GitHub. Aprendiendo React, Node.js, MongoDB y C++">
+---
 
-<br><br>
+## 📫 Contacto
 
-<img src="assets/h-projects.svg" width="960" alt="Proyectos">
-<img src="assets/projects.svg" width="960" alt="Proyectos: MiniStore, Rovelle y Portafolio">
+¿Buscas un desarrollador junior con ganas de aprender y crecer? Escríbeme por [LinkedIn](https://www.linkedin.com/in/henderson-sánchez-7a15342b9).
 
-<sub><a href="https://szhm1x.github.io/"><code>szhm1x.github.io</code></a></sub>
+<div align="center">
 
-<br><br>
-
-<img src="assets/h-edu.svg" width="960" alt="Formación">
-<img src="assets/edu.svg" width="960" alt="Ingeniería de Software en UNAPEC 2026-2029; Full Stack Web Development (INDOTEL); Full Stack Developer Expert (CertiPlus); Bachillerato Técnico en Electricidad">
-
-<br><br>
-
-<img src="assets/h-activity.svg" width="960" alt="Actividad">
-
-<img src="https://streak-stats.demolab.com/?user=szhm1x&background=0C0A07&border=2A251B&stroke=2A251B&ring=C9A84C&fire=E9DFC7&currStreakNum=E9DFC7&sideNums=E9DFC7&currStreakLabel=C9A84C&sideLabels=8A8472&dates=8A8472&border_radius=0" alt="Racha de contribuciones">
-
-<br><br>
-
-<img src="assets/h-contact.svg" width="960" alt="Hablemos">
-
-<a href="https://www.linkedin.com/in/hendersonsanchez/"><img src="https://img.shields.io/badge/LINKEDIN-C9A84C?style=for-the-badge&logo=linkedin&logoColor=0C0A07" alt="LinkedIn"></a>&nbsp;<a href="https://szhm1x.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO-E9DFC7?style=for-the-badge&logo=googlechrome&logoColor=0C0A07" alt="Portafolio"></a>&nbsp;<a href="mailto:Hendersonsanchez588@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C9A84C?style=for-the-badge&logo=gmail&logoColor=0C0A07" alt="Email"></a>
+⭐ *Gracias por visitar mi perfil.*
 
 </div>
