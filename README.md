@@ -61,8 +61,6 @@ Construyo software con **Python** y **C++**, aprendiendo con proyectos reales y 
 | **Weather Bot** | Bot que consulta y muestra el clima mediante una API externa. | Python |
 | **Rovelle** | Tienda de ropa online (proyecto grupal universitario): landing, login y carrito. | HTML · CSS · JavaScript |
 
-> 📌 Enlaza cada proyecto a su repositorio: `[MiniStore](https://github.com/szhm1x/NOMBRE-DEL-REPO)`
-
 ---
 
 ## 🗺️ Lo que estoy aprendiendo ahora
