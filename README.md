@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henderson_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendersonsanchez/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-szhm1x.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://szhm1x.github.io/)
-[![Email](https://img.shields.io/badge/Email-Hendersonsanchez588@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hendersonsanchez588@gmail.com)
 
 </div>
 
