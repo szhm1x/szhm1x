@@ -1,73 +1,49 @@
 <div align="center">
 
-<!-- BANNER -->
-<a href="https://github.com/szhm1x">
-  <img src="assets/banner.svg" width="960" alt="Perfil de Henderson Sánchez, Backend Developer Junior">
+<a href="https://szhm1x.github.io/">
+  <img src="assets/banner.svg" width="960" alt="Henderson Sánchez, Backend Developer, Python">
 </a>
+
+<br><br>
+
+<a href="https://szhm1x.github.io/"><img src="https://img.shields.io/badge/VER_PROYECTOS_→-C9A84C?style=for-the-badge&labelColor=C9A84C&color=C9A84C" alt="Ver proyectos"></a>&nbsp;<a href="mailto:Hendersonsanchez588@gmail.com"><img src="https://img.shields.io/badge/HABLEMOS-14110B?style=for-the-badge&labelColor=14110B&color=14110B" alt="Hablemos"></a>&nbsp;<a href="https://www.linkedin.com/in/hendersonsanchez/"><img src="https://img.shields.io/badge/LINKEDIN-14110B?style=for-the-badge&labelColor=14110B&color=14110B" alt="LinkedIn"></a>
+
+</div>
 
 <br>
 
-<a href="https://github.com/szhm1x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Henderson+S%C3%A1nchez+%E2%80%94+Backend+Developer+Junior;Python+%7C+C%2B%2B+%7C+Backend;Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UNAPEC;Construyendo+%E2%80%A2+Aprendiendo+%E2%80%A2+Creciendo" alt="Banner animado con perfil backend">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=szhm1x&style=flat&color=00ff41&label=profile+views" alt="profile views">
-
-</div>
-
----
-
-## `$ whoami`
-
-<p align="center">
-  <img src="assets/whoami.svg" width="960" alt="Terminal con el perfil de Henderson Sánchez, Backend Developer Junior">
-</p>
-
----
-
-## `$ cat tech-stack.yaml`
-
-<p align="center">
-  <img src="assets/stack.svg" width="960" alt="Stack: Python, C++, JavaScript, HTML, CSS, Git, GitHub. Aprendiendo React, Node.js, MongoDB y C++">
-</p>
-
----
-
-## `$ ls ~/projects`
-
-<p align="center">
-  <img src="assets/projects.svg" width="960" alt="Proyectos: MiniStore, Rovelle y portafolio">
-</p>
-
-<p align="center"><sub><a href="https://szhm1x.github.io/"><code>szhm1x.github.io</code></a></sub></p>
-
----
-
-## `$ cat education.log`
-
-```log
-[2026-2029]  Ingeniería de Software ........... Universidad APEC (UNAPEC)
-[cert]       Full Stack Web Development ....... INDOTEL
-[cert]       Full Stack Developer Expert ...... CertiPlus
-[tecnico]    Bachillerato Técnico en Electricidad ... Politécnico Madre Rafaela Ybarra
-```
-
----
-
-## `$ git log --stats`
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=szhm1x&background=000000&border=00ff41&stroke=00ff41&ring=00ff41&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=9bd8a6&dates=6fae7c&border_radius=10" alt="Racha de contribuciones">
+<img src="assets/h-about.svg" width="960" alt="Sobre mí">
+<img src="assets/about.svg" width="960" alt="Henderson M. Sánchez Herrera, Backend Developer Junior, UNAPEC, Santo Domingo">
 
-</div>
+<br><br>
 
----
+<img src="assets/h-stack.svg" width="960" alt="Stack">
+<img src="assets/stack.svg" width="960" alt="Stack: Python, C++, JavaScript, HTML, CSS, Git, GitHub. Aprendiendo React, Node.js, MongoDB y C++">
 
-## `$ connect --socials`
+<br><br>
 
-<div align="center">
+<img src="assets/h-projects.svg" width="960" alt="Proyectos">
+<img src="assets/projects.svg" width="960" alt="Proyectos: MiniStore, Rovelle y Portafolio">
 
-<a href="https://www.linkedin.com/in/hendersonsanchez/"><img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://szhm1x.github.io/"><img src="https://img.shields.io/badge/Portafolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portafolio"></a>&nbsp;&nbsp;<a href="mailto:Hendersonsanchez588@gmail.com"><img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"></a>&nbsp;&nbsp;<a href="https://github.com/szhm1x"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"></a>
+<sub><a href="https://szhm1x.github.io/"><code>szhm1x.github.io</code></a></sub>
+
+<br><br>
+
+<img src="assets/h-edu.svg" width="960" alt="Formación">
+<img src="assets/edu.svg" width="960" alt="Ingeniería de Software en UNAPEC 2026-2029; Full Stack Web Development (INDOTEL); Full Stack Developer Expert (CertiPlus); Bachillerato Técnico en Electricidad">
+
+<br><br>
+
+<img src="assets/h-activity.svg" width="960" alt="Actividad">
+
+<img src="https://streak-stats.demolab.com/?user=szhm1x&background=0C0A07&border=2A251B&stroke=2A251B&ring=C9A84C&fire=E9DFC7&currStreakNum=E9DFC7&sideNums=E9DFC7&currStreakLabel=C9A84C&sideLabels=8A8472&dates=8A8472&border_radius=0" alt="Racha de contribuciones">
+
+<br><br>
+
+<img src="assets/h-contact.svg" width="960" alt="Hablemos">
+
+<a href="https://www.linkedin.com/in/hendersonsanchez/"><img src="https://img.shields.io/badge/LINKEDIN-C9A84C?style=for-the-badge&logo=linkedin&logoColor=0C0A07" alt="LinkedIn"></a>&nbsp;<a href="https://szhm1x.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO-E9DFC7?style=for-the-badge&logo=googlechrome&logoColor=0C0A07" alt="Portafolio"></a>&nbsp;<a href="mailto:Hendersonsanchez588@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C9A84C?style=for-the-badge&logo=gmail&logoColor=0C0A07" alt="Email"></a>
 
 </div>
