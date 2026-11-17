@@ -65,8 +65,6 @@ Disposición para aprender y adaptarse · Responsabilidad y organización · Tra
 | **Rovelle** | Tienda de ropa en línea, proyecto en equipo para la materia Diseño Web en UNAPEC: página de inicio, inicio de sesión y carrito de compras. Estuve a cargo del backend. | HTML · CSS · JavaScript |
 | **Portafolio Personal** | Sitio web que presenta mi perfil profesional, habilidades técnicas y proyectos. [Ver sitio](https://szhm1x.github.io/) | HTML · CSS · JavaScript |
 
-> 📌 Enlaza cada proyecto a su repositorio: `[MiniStore](https://github.com/szhm1x/NOMBRE-DEL-REPO)`
-
 ---
 
 ## 🎓 Formación y certificaciones
