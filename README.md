@@ -1,13 +1,10 @@
 <div align="center">
 
-# Hola, soy Henderson 👋
-
-### Desarrollador Backend Junior | Python
-
-Estudiante de Ingeniería de Software en UNAPEC, enfocado en desarrollo backend con **Python** y **C++**. Busco mi primera oportunidad como desarrollador junior para aportar, aprender y crecer en un equipo técnico.
+<img src="assets/header.svg" alt="Henderson Sánchez, Backend Developer Junior | Python" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henderson_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendersonsanchez/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-szhm1x.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://szhm1x.github.io/)
+[![Email](https://img.shields.io/badge/Email-Hendersonsanchez588@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hendersonsanchez588@gmail.com)
 
 </div>
 
@@ -17,7 +14,7 @@ Estudiante de Ingeniería de Software en UNAPEC, enfocado en desarrollo backend 
 
 - 🎓 Estudiante de **Ingeniería de Software** en la **Universidad APEC (UNAPEC)**, Santo Domingo, República Dominicana (2026 - 2029).
 - 🎯 Enfocado en **desarrollo backend** con Python y C++.
-- 🧱 He construido proyectos como **MiniStore** y un sitio de e-commerce en equipo, donde estuve a cargo del backend.
+- 🧱 He construido proyectos como **MiniStore** (tienda modular con persistencia en JSON) y un sitio de e-commerce en equipo, donde estuve a cargo del backend.
 - 🌐 Inglés básico-intermedio, con terminología técnica de programación.
 - 💼 Disponible para oportunidades **junior**.
 
@@ -60,9 +57,11 @@ Disposición para aprender y adaptarse · Responsabilidad y organización · Tra
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **MiniStore** | Tienda con arquitectura modular y almacenamiento de datos en archivos | Python · JSON |
+| **MiniStore** | Tienda con arquitectura modular y almacenamiento de datos en archivos JSON. | Python · JSON |
 | **Rovelle** | Tienda de ropa en línea, proyecto en equipo para la materia Diseño Web en UNAPEC: página de inicio, inicio de sesión y carrito de compras. Estuve a cargo del backend. | HTML · CSS · JavaScript |
 | **Portafolio Personal** | Sitio web que presenta mi perfil profesional, habilidades técnicas y proyectos. [Ver sitio](https://szhm1x.github.io/) | HTML · CSS · JavaScript |
+
+> 📌 Enlaza cada proyecto a su repositorio: `[MiniStore](https://github.com/szhm1x/NOMBRE-DEL-REPO)`
 
 ---
 
