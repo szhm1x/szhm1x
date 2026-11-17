@@ -2,12 +2,13 @@
 
 # Hola, soy Henderson 👋
 
-### Estudiante de Ingeniería de Software · Aspirante a Backend Developer
+### Desarrollador Backend Junior | Python
 
-Construyo software con **Python** y **C++**, aprendiendo con proyectos reales y buscando mi primera oportunidad profesional como desarrollador junior.
+Estudiante de Ingeniería de Software en UNAPEC, enfocado en desarrollo backend con **Python** y **C++**. Busco mi primera oportunidad como desarrollador junior para aportar, aprender y crecer en un equipo técnico.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henderson_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henderson-sánchez-7a15342b9)
-[![GitHub](https://img.shields.io/badge/GitHub-szhm1x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szhm1x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henderson_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendersonsanchez/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-szhm1x.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://szhm1x.github.io/)
+[![Email](https://img.shields.io/badge/Email-Hendersonsanchez588@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hendersonsanchez588@gmail.com)
 
 </div>
 
@@ -15,68 +16,65 @@ Construyo software con **Python** y **C++**, aprendiendo con proyectos reales y 
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudio **Ingeniería de Software** en la **Universidad APEC (UNAPEC)**, Santo Domingo, República Dominicana.
-- 🎯 Mi meta: convertirme en **desarrollador backend profesional**.
-- 🐍 Profundizando en **Python** (FastAPI, automatización, estructuras de datos) y ⚙️ **C++** (punteros, STL, POO).
-- 🧪 Aprendo construyendo: cada concepto lo llevo a un proyecto.
-- 🌐 Inglés básico-intermedio, en mejora constante.
-- 💼 Disponible para oportunidades **junior** y prácticas.
+- 🎓 Estudiante de **Ingeniería de Software** en la **Universidad APEC (UNAPEC)**, Santo Domingo, República Dominicana (2026 - 2029).
+- 🎯 Enfocado en **desarrollo backend** con Python y C++.
+- 🧱 He construido proyectos como **MiniStore** (tienda modular con persistencia en JSON) y un sitio de e-commerce en equipo, donde estuve a cargo del backend.
+- 🌐 Inglés básico-intermedio, con terminología técnica de programación.
+- 💼 Disponible para oportunidades **junior**.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Habilidades técnicas
 
-**Lenguajes**
+**Programación**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++_(aprendiendo)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Desarrollo web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React_(aprendiendo)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js_(aprendiendo)-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Backend y datos**
+**Bases de datos**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_(aprendiendo)-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 ---
 
-## 🚀 Proyectos destacados
+## 🤝 Habilidades personales
+
+Disposición para aprender y adaptarse · Responsabilidad y organización · Trabajo en equipo · Pensamiento lógico y resolución de problemas
+
+---
+
+## 🚀 Proyectos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **MiniStore** | Tienda en consola con arquitectura modular y persistencia en JSON. | Python |
-| **Notes API** | API REST para gestionar notas, desarrollada de forma independiente. | Python · FastAPI · SQLModel · SQLite |
-| **Task API** | API para administración de tareas con operaciones CRUD. | Python · FastAPI |
-| **File Organizer** | Script que organiza archivos automáticamente por tipo. | Python |
-| **Mass Renamer** | Herramienta para renombrar archivos en lote. | Python |
-| **Weather Bot** | Bot que consulta y muestra el clima mediante una API externa. | Python |
-| **Rovelle** | Tienda de ropa online (proyecto grupal universitario): landing, login y carrito. | HTML · CSS · JavaScript |
+| **MiniStore** | Tienda con arquitectura modular y almacenamiento de datos en archivos JSON. | Python · JSON |
+| **Rovelle** | Tienda de ropa en línea, proyecto en equipo para la materia Diseño Web en UNAPEC: página de inicio, inicio de sesión y carrito de compras. Estuve a cargo del backend. | HTML · CSS · JavaScript |
+| **Portafolio Personal** | Sitio web que presenta mi perfil profesional, habilidades técnicas y proyectos. [Ver sitio](https://szhm1x.github.io/) | HTML · CSS · JavaScript |
 
----
-
-## 🗺️ Lo que estoy aprendiendo ahora
-
-- 🐍 **Python avanzado:** generadores, decoradores, context managers, Big O y estructuras de datos.
-- ⚙️ **C++:** ruta de 8 meses enfocada en backend (punteros, STL, POO, herramientas de build).
-- 🗄️ **Persistencia:** SQLModel + SQLite en mis APIs con FastAPI.
-- 🐳 **Docker** y entornos de desarrollo con WSL2.
+> 📌 Enlaza cada proyecto a su repositorio: `[MiniStore](https://github.com/szhm1x/NOMBRE-DEL-REPO)`
 
 ---
 
 ## 🎓 Formación y certificaciones
 
-- **Ingeniería de Software**, Universidad APEC (UNAPEC), en curso.
-- **Full Stack Web Development**, INDOTEL.
+- **Ingeniería de Software**, Universidad APEC (UNAPEC), 2026 - 2029.
 - **Bachillerato Técnico en Electricidad**, Politécnico Madre Rafaela Ybarra.
+- **Full Stack Web Development**, INDOTEL.
+- **Full Stack Developer Expert Certification**, CertiPlus.
 
 ---
 
@@ -93,7 +91,7 @@ Construyo software con **Python** y **C++**, aprendiendo con proyectos reales y 
 
 ## 📫 Contacto
 
-¿Buscas un desarrollador junior con ganas de aprender y crecer? Escríbeme por [LinkedIn](https://www.linkedin.com/in/henderson-sánchez-7a15342b9).
+¿Buscas un desarrollador junior con ganas de aprender y crecer? Escríbeme por [LinkedIn](https://www.linkedin.com/in/hendersonsanchez/) o a [Hendersonsanchez588@gmail.com](mailto:Hendersonsanchez588@gmail.com).
 
 <div align="center">
 
